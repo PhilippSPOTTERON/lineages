@@ -2,7 +2,7 @@
 
 This repository is no longer maintained. 
 
-The latest lineages for SARS-CoV-2 can be found at [pango-designation](https://github.com/cov-lineages/pango-designation) and information on these lineages is hosted at [cov-lineages.org](cov-lineages.org). 
+The latest lineages for SARS-CoV-2 can be found at [pango-designation](https://github.com/cov-lineages/pango-designation) and information on these lineages is hosted at [https://cov-lineages.org](cov-lineages.org). 
 
 The latest pangoLEARN input can be found at the [pangoLEARN repository](https://github.com/cov-lineages/pangoLEARN) which has replaced the inference engine in the software tool pangolin.
 
